@@ -5,7 +5,7 @@
 
 2. Data types
    - **Primitive (immutable values)**
-     - Number
+     - Number(Infinte, NaN)
      - String
      - Boolean
      - Null
@@ -43,3 +43,16 @@
    - `trim()`
    - `trimStart()`
    - `trimEnd()`
+5. template literals(` `` `)
+   - for string interpolation(${---})
+   - for embedding javascript code
+   - for newline and space or other special symbols without \n or\. simply im whichever way it is written inside template literal that way it will be logged.
+6. Operators
+  - **a. unary**
+    - +, -, ++, --, !, ~, void(), typeof, Bitwise(>>, <<, &, |, ^)
+  - **b. binary** 
+    - Arithmetic(+, -, *, /, %), Conditions(>,<,>=,<=, &&, ||, ??), Equality(==, ===, +=, -=, /=), Inequality(!=, !==), operator precedence and operator association
+  - **c. ternary**
+    - `condition ? true statement : false statement`
+7. Semicolon(;) - Automatically it is applied at end of each line but it is good to use.
+8.  Single line comment(//), Multi-line comment(/*__________*/)
