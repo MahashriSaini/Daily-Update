@@ -111,55 +111,55 @@
 ## 9 Jan 2026
 ### Basics of JavaScript
 1. Object (collection of key value pairs separated by commas)
-  - accessing properties of object
-    - Dot notation
-    - Bracket notation ( helpful when property name is out of naming rules)
-  - remove properties from object
-    - delete operator
-    - destructuring with rest parameters
-  - checking existence of property
-    - hasOwnProperty()
-    - in operator
-    - checking against undefined
-  - optional chaining operator(?.) -safely access object properties or call methods without worrying whether they exist
-  - destructuring object
+   - accessing properties of object
+      - Dot notation
+      - Bracket notation ( helpful when property name is out of naming rules)
+   - remove properties from object
+      - delete operator
+      - destructuring with rest parameters
+   - checking existence of property
+      - hasOwnProperty()
+      - in operator
+      - checking against undefined
+   - optional chaining operator(?.) -safely access object properties or call methods without worrying whether they exist
+   - destructuring object
 
 2. Object Methods VS Functions
-  - Object methods are functions defined as properties to object whereas Functions are globaly defined
-  - called using dot notation of object
-  - reference other properties using this keyword
+   - Object methods are functions defined as properties to object whereas Functions are globaly defined
+   - called using dot notation of object
+   - reference other properties using this keyword
 
 3. Object() Constructor
-  - new Object() - an empty new object is created
-  - Object(num) = wrapper around primitiva data type
+   - new Object() - an empty new object is created
+   - Object(num) = wrapper around primitiva data type
 
 4. JSON ( JavaScript Object Notation)
- - light weight text based data format used for exchanging data between a server and a web application
- - machine parseable and human parseable
- - language independent ( java app can send to python app)
- - key-value pairs seaparated by commas
- - dot notation for access
- - JSON.parse() = convert JSON string to object
- - JSON.stringify() = JSON object to JSON string
+  - light weight text based data format used for exchanging data between a server and a web application
+  - machine parseable and human parseable
+  - language independent ( java app can send to python app)
+  - key-value pairs seaparated by commas
+  - dot notation for access
+  - JSON.parse() = convert JSON string to object
+  - JSON.stringify() = JSON object to JSON string
 
 5. Loops
-  - for
-  - for in
-  - for of
-  - while
-  - do while
+   - for
+   - for in
+   - for of
+   - while
+   - do while
 
 
 ### Leetcode Problem 
-  - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09
+   - https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09
 
 
 ### Codeforces Problem
-  - https://codeforces.com/problemset/problem/2169/A
+   - https://codeforces.com/problemset/problem/2169/A
 
 
 ### Open Source Contribution
-  - repo link = https://github.com/Roshanjossey/code-contributions
+   - repo link = https://github.com/Roshanjossey/code-contributions
 
 
 
